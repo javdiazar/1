@@ -11,4 +11,4 @@ database.sync({ force: false }).then(() =>
   })
 );
 
-//desarrollo
+//desar
