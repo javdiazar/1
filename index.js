@@ -10,3 +10,5 @@ database.sync({ force: false }).then(() =>
     console.log("servidor escuchando el el puerto 3001");
   })
 );
+
+//desarrollo
